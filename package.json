@@ -1,0 +1,23 @@
+{
+  "name": "telpark-testing",
+  "version": "1.0.0",
+  "description": "QA Tester/Engineer Exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreLuizGomesPereira/telpark-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreLuizGomesPereira/telpark-testing/issues"
+  },
+  "homepage": "https://github.com/AndreLuizGomesPereira/telpark-testing#readme",
+  "devDependencies": {
+    "cypress": "^9.5.4"
+  }
+}
